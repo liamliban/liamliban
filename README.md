@@ -123,9 +123,6 @@ Recent advancements in deep learning have led to the creation of automated real-
 
 <hr>
 
-##  
-##  
-
 <div align="center">
   
   ### 💡 "If something is worth doing, it's worth doing well." - Hunter S. Thompson
