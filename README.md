@@ -1,34 +1,31 @@
 <h2 align="center">Hello World!</h2>
-
-###
-
 <h3 align="center">I'm Liam! 👋🏼</h3>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/liamliban/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="18" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="18" alt="linkedin logo"  />
   </a>
   <a href="mailto:liamliban1229@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="18" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="18" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/liam.liban/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="18" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="18" alt="facebook logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">👨🏽‍💻  About Me</h3>
+<h2 align="left">👨🏽‍💻  About Me</h3>
 
 ###
 
-<p align="left">🔭 I’m working as a Junior Data Engineer at Focus Global Inc.<br><br>🛠️ I work with Python, SQL, BigQuery, Airflow, GCP, and Metabase<br><br>📊 I build data pipelines, automate workflows, develop dashboards for business insights, and web scraping!<br><br>📚 I'm currently learning more web scraping methods, Machine Learning, LLMs, NLP, and Computer Vision<br><br>⚡ In my free time, I experiment with AI models, optimize data workflows, and explore new tech trends<br><br>🎮 I also enjoy gaming, coding side projects,</p>
+<p align="left">🔭 I’m working as a <strong>Junior Data Engineer</strong> at <strong>Focus Global Inc.</strong><br><br>🛠️ I work with Python, SQL, BigQuery, Airflow, GCP, and Metabase<br><br>📊 I build data pipelines, automate workflows, develop dashboards for business insights, and web scraping!<br><br>📚 I'm currently learning more web scraping methods, Machine Learning, LLMs, NLP, and Computer Vision<br><br>⚡ In my free time, I experiment with AI models, optimize data workflows, and explore new tech trends<br><br>🎮 I also enjoy gaming, coding side projects,</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -72,7 +69,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h3>
 
 ###
 
