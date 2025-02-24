@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/liamliban/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="18" height="18" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="18" alt="linkedin logo"  />
   </a>
   <a href="mailto:liamliban1229@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="18" height="18" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="18" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/liam.liban/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="18" height="18" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="25" height="18" alt="facebook logo"  />
   </a>
 </div>
 
