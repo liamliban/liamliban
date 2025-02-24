@@ -171,6 +171,17 @@ Recent advancements in deep learning have led to the creation of automated real-
 <div align="center">
   <p>I'm always open to collaborating on interesting projects or discussing data engineering concepts.</p>
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/liamliban/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:liamliban1229@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/liam.liban/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
 <hr>
 <div align="center">
@@ -178,7 +189,6 @@ Recent advancements in deep learning have led to the creation of automated real-
   ### 💡 "If something is worth doing, it's worth doing well." - Hunter S. Thompson
   
 </div>
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
