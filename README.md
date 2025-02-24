@@ -1,5 +1,5 @@
-<h1 align="center">Hello World 👋🏼 I'm Liam!</h1>
-<h2 align="center">A Data Engineer from Taguig City, Philippines</h2>
+<h3 align="center">Hello World 👋🏼 I'm Liam!</h1>
+<h4 align="center">A Data Engineer from Taguig City, Philippines</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">👨🏽‍💻  About Me</h3>
+<h3 align="left">👨🏽‍💻  About Me</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -69,7 +69,7 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
