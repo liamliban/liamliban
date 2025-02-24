@@ -51,7 +51,7 @@ class LiamLiban:
 <details>
   <summary><b>💼 Work Experience</b></summary>
   
-  ### Data Engineer @ Focus Global Inc.
+  ### <u>Data Engineer @ Focus Global Inc.</u>
   <p><em>July 2024 - Present</em></p>
 
   - Automated data workflows to enhance reliability and reduce manual intervention, improving overall data processing efficiency.
@@ -59,7 +59,7 @@ class LiamLiban:
   - Streamlined data integration processes by implementing scalable transformations, ensuring consistency and accuracy across enterprise datasets.
   - Worked with cloud-based infrastructure and data warehouses, optimizing performance and maintaining data integrity to support business intelligence initiatives.
   
-  ### Web Development Intern @ Focus Global Inc.
+  ### <u>Web Development Intern @ Focus Global Inc.</u>
   <p><em>January 2024 - May 2024</em></p>
   
   - Migrated three websites (Miele PH, BruMate MY, BruMate SG) to a modern tech stack using Next.js
