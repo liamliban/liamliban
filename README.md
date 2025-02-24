@@ -1,1 +1,1 @@
-## Hi there! Testing out my profile readme :)
+## 👋 Hi, I'm Liam! 🚀 Junior Data Engineer @ Focus Global Inc.
