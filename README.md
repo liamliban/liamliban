@@ -1,5 +1,5 @@
-<h2 align="center">Hello World!</h2>
-<h3 align="center">I'm Liam! 👋🏼</h3>
+<h1 align="center">Hello World 👋🏼 I'm Liam!</h1>
+<h2 align="center">A Data Engineer from Taguig City, Philippines</h2>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as a <strong>Junior Data Engineer</strong> at <strong>Focus Global Inc.</strong><br><br>🛠️ I work with Python, SQL, BigQuery, Airflow, GCP, and Metabase<br><br>📊 I build data pipelines, automate workflows, develop dashboards for business insights, and web scraping!<br><br>📚 I'm currently learning more web scraping methods, Machine Learning, LLMs, NLP, and Computer Vision<br><br>⚡ In my free time, I experiment with AI models, optimize data workflows, and explore new tech trends<br><br>🎮 I also enjoy gaming, coding side projects,</p>
+<p align="left">🔭 I’m working as a <strong>Data Engineer</strong> at <strong>Focus Global Inc.</strong><br><br>🛠️ I work with Python, SQL, BigQuery, Airflow, GCP, and Metabase<br><br>📊 I build data pipelines, automate workflows, develop dashboards for business insights, and web scraping!<br><br>📚 I'm currently learning more web scraping methods, Machine Learning, LLMs, NLP, and Computer Vision<br><br>⚡ In my free time, I experiment with AI models, optimize data workflows, and explore new tech trends<br><br>🎮 I also enjoy gaming, coding side projects,</p>
 
 ###
 
