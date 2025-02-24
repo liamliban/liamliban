@@ -16,7 +16,7 @@
   </a>
 </div>
 
-## 👨🏽‍💻 About Me
+<h3 align="left">👨🏽‍💻 About Me</h3>
 
 ```python
 class LiamLiban:
@@ -87,16 +87,16 @@ class LiamLiban:
 
 <hr>
 
-## 📚 Published Research
-
-<div align="center">
+<h3 align="left">📚 Published Research</h3>
+<details>
+  <summary><b>📝 SPoTem: Handgun Detection in Videos using Spatial, Pose, and Temporal Features</b></summary>
+  
+  <div align="left">
   <a href="https://dl.acm.org/doi/abs/10.1145/3655497.3655511">
     <img src="https://img.shields.io/badge/View_Publication-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Publication" />
   </a>
 </div>
 
-<details>
-  <summary><b>📝 SPoTem: Handgun Detection in Videos using Spatial, Pose, and Temporal Features</b></summary>
   
   ### Abstract
   
@@ -121,6 +121,9 @@ Recent advancements in deep learning have led to the creation of automated real-
   
 </details>
 
+<hr>
+##
+##
 <div align="center">
   
   ### 💡 "If something is worth doing, it's worth doing well." - Hunter S. Thompson
