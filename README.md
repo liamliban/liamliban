@@ -1,5 +1,20 @@
-<h3 align="center">Hello World 👋🏼 I'm Liam!</h1>
-<p align="center">A <strong>Data Engineer</strong> from Taguig City, <strong>Philippines</strong></p>
+# <div align="center">👋🏼 Hello World, I'm Liam!</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=435&lines=Data+Engineer;Python+Enthusiast;AI+Aficionado" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/liamliban/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:liamliban1229@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/liam.liban/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/liamliban/" target="_blank">
@@ -13,9 +28,27 @@
   </a>
 </div>
 
-<hr>
-<h3 align="left">👨🏽‍💻  About Me</h3>
-<p align="left">🔭 I’m working as a <strong>Data Engineer</strong> at <strong>Focus Global Inc.</strong><br><br>🛠️ I work with Python, SQL, BigQuery, Airflow, GCP, and Metabase<br><br>📊 I build data pipelines, automate workflows, develop dashboards for business insights, and web scraping!<br><br>📚 I'm currently learning more web scraping methods, Machine Learning, LLMs, NLP, and Computer Vision<br><br>⚡ In my free time, I experiment with AI models, optimize data workflows, and explore new tech trends<br><br>🎮 I also enjoy gaming, coding side projects,</p>
+## 👨🏽‍💻 About Me
+
+```python
+class LiamLiban:
+    def __init__(self):
+        self.role = "Data Engineer"
+        self.organization = "Focus Global Inc."
+        self.location = "Taguig City, Philippines"
+        self.skills = ["Python", "SQL", "BigQuery", "Airflow", "GCP", "Metabase"]
+        self.interests = ["AI", "Machine Learning", "LLMs", "NLP", "Computer Vision"]
+        self.hobbies = ["Gaming", "Coding Side Projects", "Exploring Tech Trends"]
+    
+    def what_i_do(self):
+        return ["Build data pipelines", "Automate workflows", 
+                "Develop business intelligence dashboards", "Web scraping"]
+                
+    def currently_learning(self):
+        return ["Advanced web scraping techniques", "Machine Learning",
+                "Large Language Models", "Natural Language Processing", 
+                "Computer Vision"]
+```
 
 <hr>
 <h3 align="left">🛠 Language and tools</h3>
@@ -66,139 +99,42 @@
 
 <hr>
 
-# <div align="center">👋🏼 Hello World, I'm Liam!</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=435&lines=Data+Engineer;Python+Enthusiast;GCP+Specialist" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/liamliban/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:liamliban1229@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/liam.liban/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
-
-## 👨🏽‍💻 About Me
-
-```python
-class LiamLiban:
-    def __init__(self):
-        self.role = "Data Engineer"
-        self.organization = "Focus Global Inc."
-        self.location = "Taguig City, Philippines"
-        self.skills = ["Python", "SQL", "BigQuery", "Airflow", "GCP", "Metabase"]
-        self.interests = ["AI", "Machine Learning", "LLMs", "NLP", "Computer Vision"]
-        self.hobbies = ["Gaming", "Coding Side Projects", "Exploring Tech Trends"]
-    
-    def what_i_do(self):
-        return ["Build data pipelines", "Automate workflows", 
-                "Develop business intelligence dashboards", "Web scraping"]
-                
-    def currently_learning(self):
-        return ["Advanced web scraping techniques", "Machine Learning",
-                "Large Language Models", "Natural Language Processing", 
-                "Computer Vision"]
-```
-
-## 🔧 Technologies & Tools
-
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-  
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  
-</div>
-
 ## 📚 Published Research
 
 <div align="center">
-  <a href="https://your-study-link-here">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3655497.3655511">
     <img src="https://img.shields.io/badge/View_Publication-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Publication" />
   </a>
 </div>
 
 <details>
-  <summary><b>📝 Title of Your Published Study</b></summary>
+  <summary><b>📝 SPoTem: Handgun Detection in Videos using Spatial, Pose, and Temporal Features</b></summary>
   
   ### Abstract
   
-  [Include a brief abstract of your published study here]
+Recent advancements in deep learning have led to the creation of automated real-time weapon detection systems, primarily leveraging object detection framework and body pose keypoints extraction to extract features of hand regions as spatial features and body pose features. However, these approaches aren't able to contextualize the spatial features and pose features, limiting their effectiveness. This research introduces a unified architecture called SPoTem that incorporates spatial features, pose features, and temporal features for gun detection. The proposed approach starts by detecting the poses of persons in a video frame using OpenPose to locate the hand regions. Afterwards, the hand region is cropped, and DarkNet-53 is used to extract spatial features from it. Next, human pose keypoints are then put into an image to obtain a binary human pose image which is then fed into a convolutional neural network for human pose feature extraction. As for the temporal component, this study explores two (2) methods of extracting temporal features from the video using a long short-term memory (LSTM). The first one is through using a sequence of pose features and the other is a sequence of spatial features. This study shows that adding temporal features have improved the performance with respect to detecting guns in videos. Furthermore, results have shown that temporal features using sequences of human pose keypoints are more stable and effective at handgun detection in videos.
   
   ### Publication Details
   
-  - **Journal/Conference**: [Name of Journal or Conference]
-  - **Year**: [Publication Year]
-  - **Authors**: Liam Liban, [Other authors if any]
-  - **DOI**: [DOI number if available]
+  - **Journal/Conference**: ICIAI '24: Proceedings of the 2024 International Conference on Innovation in Artificial Intelligence
+  - **Year**: 2024
+  - **Authors**: Liam Liban, Juan Miguel Flores, Idan Andrei Paguio, Robert Ribaya, Jessie James Suarez
+  - **DOI**: 10.1145/3655497.3655511
   
   ### Key Findings
   
-  - [Key finding #1]
-  - [Key finding #2]
-  - [Key finding #3]
+  - Incorporating temporal features significantly enhances the ability to detect guns in videos compared to using only spatial and pose features.  
+  - Sequences of human pose keypoints provide more stable and effective handgun detection than sequences of spatial features.
+  - The proposed SPoTem model successfully integrates spatial, pose, and temporal features, addressing the limitations of previous methods that struggled to contextualize spatial and pose features.
   
   ### Impact
   
-  [Brief description of the impact of your research]
+  By demonstrating the effectiveness of pose-based temporal features, the study paves the way for more reliable surveillance and security applications, reducing false positives and improving response times in critical situations.
   
 </details>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/liamliban/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liamliban&repo=project-1&theme=tokyonight" alt="Project 1" />
-  </a>
-  <a href="https://github.com/liamliban/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liamliban&repo=project-2&theme=tokyonight" alt="Project 2" />
-  </a>
-</div>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liamliban&show_icons=true&theme=tokyonight" alt="Liam's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liamliban&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamliban&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=liamliban&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
-
 <div align="center">
   
-  ### 💡 "The only way to do great work is to love what you do." - Steve Jobs
+  ### 💡 "If something is worth doing, it's worth doing well." - Hunter S. Thompson
   
 </div>
