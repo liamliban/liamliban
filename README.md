@@ -51,7 +51,7 @@ class LiamLiban:
 <details>
   <summary><b>💼 Work Experience</b></summary>
   
-  ### <u>Data Engineer @ Focus Global Inc.</u>
+  <h3><u>Data Engineer @ Focus Global Inc.</u></h3> 
   <p><em>July 2024 - Present</em></p>
 
   - Automated data workflows to enhance reliability and reduce manual intervention, improving overall data processing efficiency.
@@ -59,7 +59,7 @@ class LiamLiban:
   - Streamlined data integration processes by implementing scalable transformations, ensuring consistency and accuracy across enterprise datasets.
   - Worked with cloud-based infrastructure and data warehouses, optimizing performance and maintaining data integrity to support business intelligence initiatives.
   
-  ### <u>Web Development Intern @ Focus Global Inc.</u>
+  <h3><u>Web Development Intern @ Focus Global Inc.</u></h3> 
   <p><em>January 2024 - May 2024</em></p>
   
   - Migrated three websites (Miele PH, BruMate MY, BruMate SG) to a modern tech stack using Next.js
@@ -158,12 +158,6 @@ Recent advancements in deep learning have led to the creation of automated real-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liamliban&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liamliban&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Inbox Tray" width="25" height="25" /> Let's Connect
