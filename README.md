@@ -57,11 +57,12 @@ class LiamLiban:
   
   <h3><u>Data Engineer @ Focus Global Inc.</u></h3> 
   <p><em>July 2024 - Present</em></p>
-
-  - Automated data workflows to enhance reliability and reduce manual intervention, improving overall data processing efficiency.
-  - Built and optimized real-time dashboards in Metabase and BigQuery, enabling stakeholders to make data-driven decisions with up-to-date insights.
-  - Streamlined data integration processes by implementing scalable transformations, ensuring consistency and accuracy across enterprise datasets.
-  - Worked with cloud-based infrastructure and data warehouses, optimizing performance and maintaining data integrity to support business intelligence initiatives.
+  
+  - Design, build, and maintain data pipelines for efficient data movement and transformation.
+  - Work with SQL (BigQuery, PostgreSQL, MSSQL, Metabase) to optimize queries and develop reports.
+  - Automate data workflows and ETL processes using GCP, dbt, Airflow, and Python.
+  - Collaborate with stakeholders to improve inventory management, forecasting, and decision-making.
+  - Research and evaluate new tools (e.g., Kafka) for potential adoption in the data stack.
   
   <h3><u>Web Development Intern @ Focus Global Inc.</u></h3> 
   <p><em>January 2024 - May 2024</em></p>
