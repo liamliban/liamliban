@@ -4,116 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=435&lines=Data+Engineer;Python+Enthusiast;AI+Aficionado" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/liamliban/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="18" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:liamliban1229@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="18" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/liam.liban/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="25" height="18" alt="facebook logo"  />
-  </a>
-</div>
-
-<h3 align="left">👨🏽‍💻 About Me</h3>
-
-```python
-class LiamLiban:
-    def __init__(self):
-        self.role = "Data Engineer"
-        self.organization = "Focus Global Inc."
-        self.location = "Taguig City, Philippines"
-        self.skills = ["Python", "SQL", "BigQuery", "Airflow", "GCP", "Metabase"]
-        self.interests = ["AI", "Machine Learning", "LLMs", "NLP", "Computer Vision"]
-        self.hobbies = ["Gaming", "Coding Side Projects", "Exploring Tech Trends"]
-    
-    def what_i_do(self):
-        return ["Build data pipelines", "Automate workflows", 
-                "Develop business intelligence dashboards", "Web scraping"]
-                
-    def currently_learning(self):
-        return ["Advanced web scraping techniques", "Machine Learning",
-                "Large Language Models", "Natural Language Processing", 
-                "Computer Vision"]
-```
-
-<hr>
-<h3 align="left">🛠 Language and tools</h3>
-
-
-<hr>
-<h3 align="left">🔥   My Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liamliban&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liamliban&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<hr>
-
-<h3 align="left">📚 Published Research</h3>
-<details>
-  <summary><b>📝 SPoTem: Handgun Detection in Videos using Spatial, Pose, and Temporal Features</b></summary>
-  
-  <div align="left">
-  <a href="https://dl.acm.org/doi/abs/10.1145/3655497.3655511">
-    <img src="https://img.shields.io/badge/View_Publication-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Publication" />
-  </a>
-</div>
-
-  
-  ### Abstract
-  
-Recent advancements in deep learning have led to the creation of automated real-time weapon detection systems, primarily leveraging object detection framework and body pose keypoints extraction to extract features of hand regions as spatial features and body pose features. However, these approaches aren't able to contextualize the spatial features and pose features, limiting their effectiveness. This research introduces a unified architecture called SPoTem that incorporates spatial features, pose features, and temporal features for gun detection. The proposed approach starts by detecting the poses of persons in a video frame using OpenPose to locate the hand regions. Afterwards, the hand region is cropped, and DarkNet-53 is used to extract spatial features from it. Next, human pose keypoints are then put into an image to obtain a binary human pose image which is then fed into a convolutional neural network for human pose feature extraction. As for the temporal component, this study explores two (2) methods of extracting temporal features from the video using a long short-term memory (LSTM). The first one is through using a sequence of pose features and the other is a sequence of spatial features. This study shows that adding temporal features have improved the performance with respect to detecting guns in videos. Furthermore, results have shown that temporal features using sequences of human pose keypoints are more stable and effective at handgun detection in videos.
-  
-  ### Publication Details
-  
-  - **Journal/Conference**: ICIAI '24: Proceedings of the 2024 International Conference on Innovation in Artificial Intelligence
-  - **Year**: 2024
-  - **Authors**: Liam Liban, Juan Miguel Flores, Idan Andrei Paguio, Robert Ribaya, Jessie James Suarez
-  - **DOI**: 10.1145/3655497.3655511
-  
-  ### Key Findings
-  
-  - Incorporating temporal features significantly enhances the ability to detect guns in videos compared to using only spatial and pose features.  
-  - Sequences of human pose keypoints provide more stable and effective handgun detection than sequences of spatial features.
-  - The proposed SPoTem model successfully integrates spatial, pose, and temporal features, addressing the limitations of previous methods that struggled to contextualize spatial and pose features.
-  
-  ### Impact
-  
-  By demonstrating the effectiveness of pose-based temporal features, the study paves the way for more reliable surveillance and security applications, reducing false positives and improving response times in critical situations.
-  
-</details>
-
-<hr>
-
-<div align="center">
-  
-  ### 💡 "If something is worth doing, it's worth doing well." - Hunter S. Thompson
-  
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# <div align="center">👋🏼 Hello World, I'm Liam!</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=435&lines=Data+Engineer;Python+Enthusiast;AI+Aficionado" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=liamliban&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" />
 </p>
@@ -228,11 +118,6 @@ class LiamLiban:
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="28" alt="neovim logo"  />
 </div>
 
-<div align="center">
-  <h3>Skill Distribution</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamliban&layout=pie&theme=radical" alt="Top Languages" />
-</div>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" /> Published Research
 
 <details>
@@ -268,16 +153,12 @@ Recent advancements in deep learning have led to the creation of automated real-
   
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liamliban&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=liamliban&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liamliban&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=liamliban&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=liamliban&theme=radical&hide_border=true" />
-</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Random Dev Quote
 
