@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
+</div>
+
 # <div align="center">👋🏼 Hello World, I'm Liam!</div>
 
 <div align="center">
@@ -73,7 +77,7 @@ class LiamLiban:
   ### Bachelor of Science in Computer Science
   <p><em>University of Santo Tomas, Graduated 2024</em></p>
   
-  ### Certifications
+  ### Awards & Recognitions
   - Graduated Cum Laude
   - Consistent Dean’s Lister ’20-’24
   - 1st Place Best Thesis - Core CS
