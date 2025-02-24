@@ -1,5 +1,5 @@
 <h3 align="center">Hello World 👋🏼 I'm Liam!</h1>
-<h4 align="center">A Data Engineer from Taguig City, Philippines</h2>
+<p align="center">A <strong>Data Engineer</strong> from Taguig City, <strong>Philippines</strong></p>
 
 ###
 
