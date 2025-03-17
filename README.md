@@ -32,7 +32,7 @@ class LiamLiban:
         self.role = "Data Engineer"
         self.organization = "Focus Global Inc."
         self.location = "Taguig City, Philippines"
-        self.skills = ["Python", "SQL", "BigQuery", "Airflow", "GCP", "Metabase"]
+        self.skills = ["Python", "SQL", "BigQuery", "Airflow", "GCP", "Metabase", "Docker", "Web Scraping"]
         self.interests = ["AI", "Machine Learning", "LLMs", "NLP", "Computer Vision"]
         self.hobbies = ["Gaming", "Coding Side Projects", "Exploring Tech Trends"]
     
