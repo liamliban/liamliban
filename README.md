@@ -30,7 +30,7 @@
 class LiamLiban:
     def __init__(self):
         self.role = "Data Engineer"
-        self.organization = "Focus Global Inc."
+        self.organization = "ViralMoment"
         self.location = "Taguig City, Philippines"
         self.skills = ["Python", "SQL", "BigQuery", "Airflow", "GCP", "Metabase", "Docker", "Web Scraping"]
         self.interests = ["AI", "Machine Learning", "LLMs", "NLP", "Computer Vision"]
@@ -54,9 +54,12 @@ class LiamLiban:
 
 <details>
   <summary><b>💼 Work Experience</b></summary>
+
+  <h3><u>Data Engineer @ ViralMoment</u></h3> 
+  <p><em>April 2025 - Present</em></p>
   
   <h3><u>Data Engineer @ Focus Global Inc.</u></h3> 
-  <p><em>July 2024 - Present</em></p>
+  <p><em>July 2024 - April 2025</em></p>
   
   - Design, build, and maintain data pipelines for efficient data movement and transformation.
   - Work with SQL (BigQuery, PostgreSQL, MSSQL, Metabase) to optimize queries and develop reports.
