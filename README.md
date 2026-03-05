@@ -58,6 +58,12 @@ class LiamLiban:
   <h3><u>Data Engineer @ ViralMoment</u></h3> 
   <p><em>April 2025 - Present</em></p>
   
+  - One of two data engineers at a data-centric AI startup — architected and maintained 10+ event-driven Python microservices on AWS EKS and Kafka, processing ~2 million social media posts daily through ingestion, deduplication, AI enrichment, and search indexing pipelines. Authored the shared Python utilities library consumed across all services.
+  - Delivered $50K+ in annual infrastructure cost savings by redesigning storage strategies, eliminating redundant data retention, and building real-time provider monitoring with Redis to cut underperforming vendor spend.
+  - Expanded the platform's data coverage from TikTok-only to three major social platforms by building the YouTube and Instagram ingestion pipelines end-to-end — handling proxy rotation, rate limiting, and cross-platform data normalization.
+  - Built and deployed a GPU-accelerated speech-to-text microservice with speaker diarization and translation capabilities, enabling new AI-driven product features for audio analytics.
+  - Designed and implemented observability infrastructure (Grafana, Loki, structured JSON logging) that surfaced previously undetected failures such as stalled processing jobs and degraded AI throughput.
+  
   <h3><u>Data Engineer @ Focus Global Inc.</u></h3> 
   <p><em>July 2024 - April 2025</em></p>
   
